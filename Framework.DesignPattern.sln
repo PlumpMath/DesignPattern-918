@@ -21,8 +21,6 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Framework.DesignPattern.Fac
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Framework.DesignPattern.Builder", "Framework.DesignPattern.Builder\Framework.DesignPattern.Builder.csproj", "{24DC710B-215F-4C76-9627-1688031DF1A3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Framework.DesignPattern.TemplateMethod", "Framework.DesignPattern.TemplateMethod\Framework.DesignPattern.TemplateMethod.csproj", "{D0768FEF-9ADA-4465-B990-03AEDF7455F4}"
-EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Framework.DesignPattern.State", "Framework.DesignPattern.State\Framework.DesignPattern.State.csproj", "{E6930B36-0E3E-4539-8C83-7A92B1B756AE}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Framework.DesignPattern.Proxy", "Framework.DesignPattern.Proxy\Framework.DesignPattern.Proxy.csproj", "{E611C0E0-2BCC-4704-AB1F-7AF0462E1577}"
@@ -75,10 +73,6 @@ Global
 		{24DC710B-215F-4C76-9627-1688031DF1A3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{24DC710B-215F-4C76-9627-1688031DF1A3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{24DC710B-215F-4C76-9627-1688031DF1A3}.Release|Any CPU.Build.0 = Release|Any CPU
-		{D0768FEF-9ADA-4465-B990-03AEDF7455F4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{D0768FEF-9ADA-4465-B990-03AEDF7455F4}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{D0768FEF-9ADA-4465-B990-03AEDF7455F4}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{D0768FEF-9ADA-4465-B990-03AEDF7455F4}.Release|Any CPU.Build.0 = Release|Any CPU
 		{E6930B36-0E3E-4539-8C83-7A92B1B756AE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{E6930B36-0E3E-4539-8C83-7A92B1B756AE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E6930B36-0E3E-4539-8C83-7A92B1B756AE}.Release|Any CPU.ActiveCfg = Release|Any CPU
